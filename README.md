@@ -9,8 +9,8 @@ Be sure to have `ruby`, `bundler` and `git` installed.
 Then using your favourite terminal, run:
 
 ```
-$ git clone https://gitlab.com/ilug-bom/www.ilug-bom.org.in ilugbom
-$ cd ilugbom
+$ git clone https://github.com/teachwithlinux/teachwithlinux.github.io.git teachwithlinux
+$ cd teachwithlinux
 $ bundle install
 $ bundle exec jekyll serve
 ```
